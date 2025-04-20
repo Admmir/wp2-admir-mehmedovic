@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wp-2-admir-mehmedovic/static/css/main.c2e83391.css",
+    "main.js": "/wp-2-admir-mehmedovic/static/js/main.cc5838f2.js",
+    "static/js/453.d52c1549.chunk.js": "/wp-2-admir-mehmedovic/static/js/453.d52c1549.chunk.js",
+    "index.html": "/wp-2-admir-mehmedovic/index.html",
+    "main.c2e83391.css.map": "/wp-2-admir-mehmedovic/static/css/main.c2e83391.css.map",
+    "main.cc5838f2.js.map": "/wp-2-admir-mehmedovic/static/js/main.cc5838f2.js.map",
+    "453.d52c1549.chunk.js.map": "/wp-2-admir-mehmedovic/static/js/453.d52c1549.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e83391.css",
+    "static/js/main.cc5838f2.js"
+  ]
+}
