@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/wp-2-admir-mehmedovic">
+    <BrowserRouter basename="/wp2-admir-mehmedovic">
     <App />
   </BrowserRouter>
   </React.StrictMode>
